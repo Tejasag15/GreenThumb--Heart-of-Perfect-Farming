@@ -21,7 +21,7 @@ Our "Indoor Farm Environmental Impact Open Data Tracker and Exploration" applica
 - Develop an application and schema as a proof of concept for utilizing blockchain technology in creating an immutable record of energy usage
 - Analyze and study the environmental impact of indoor farming at scale
 
-##Filecoin Sponsored Grant Change log:
+## Filecoin Sponsored Grant Change log:
 - Added 2 top level extra tabs containing Metric Summary and Metric Variability analysis.
 - Metric comparison tab has 3 new comparisons.
 - Metric Summary tab has usage and change in usage over time plots which we can look up to the level of individual farm and produce.
